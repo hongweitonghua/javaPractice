@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Demo3_insert.insert" project="javaweb_day14_jdbc" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testcase name="insert" classname="com.hongwei.jdbc.Demo3_insert" time="0.206"/>
+</testrun>
